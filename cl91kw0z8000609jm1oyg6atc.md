@@ -1,1 +1,34 @@
-IyMgUmVjb25vY2ltaWVudG8gY29uIE5tYXAgKEV0aGljYWwgSGFja2luZykKCiMjIFJlY29waWxhY2nDs24gZGUgaW5mb3JtYWNpw7NuOgoKQ29tcHJvYmFjacOzbiBkZSBsYSBjb25lY3RpdmlkYWQgY29uIGxhIG3DoXF1aW5hLgoJ4p2vIHBpbmcgLWMgMSAxMC4xMC4xMS4xMzAKRW4gbGEgc2FsaWRhIGRlbCBjb21hbmRvIGFudGVyaW9yIHNlIHB1ZWRlIHZlciB1biBwYXLDoW1ldHJvIGxsYW1hZG8gdHRsLCBncmFjaWFzIGEgZXN0ZSBwYXLDoW1ldHJvIHBvZGVtb3Mgc2FiZXIgcXXDqSBzaXN0ZW1hIG9wZXJhdGl2byBlc3TDoSBjb3JyaWVuZG8gZW4gbGEgbcOhcXVpbmEgdsOtY3RpbWEuCgoJ4p2vIEdOVS9MaW51eCA9IFRUTCA2NAoJ4p2vIFdpbmRvd3MgPSBUVEwgMTI4CgpObWFwIHBhcmEgZGVzY3VicmlyIHF1ZSBwdWVydG9zIGVzdMOhbiBhYmllcnRvcyB5IHF1ZSBzZXJ2aWNpb3MgZXN0w6FuIGFzb2NpYWRvcyBhIGVzdG9zLgoKCeKdryBubWFwIC1wLSAtLW9wZW4gLXNTIC0tbWluLXJhdGUgNTAwMCAtdnZ2IC1uIC1QbiAxMC4xMC4xMS4xMzAgLW9HIGFsbHBvcnQKCi0gICAtcC0gIOKHviBFc2NhbmVhIHRvZG9zIGxvcyBwdWVydG9zICg2NTUzNSkKLSAgIOKAk29wZW4g4oaSIE11ZXN0cmEgc29sbyBsb3MgcHVlcnRvcyBjb24gdW4gZXN0YXR1cyDigJxvcGVu4oCdCi0gICAtc1Mg4oaSIEFwbGljYSB1biBUQ1AgU1lOIFNjYW4KLSAgIOKAk21pbi1yYXRlIDUwMDAg4oaSIEluZGljYSBxdWUgcXVpZXJvIGVtaXRpciBwYXF1ZXRlcyBubyBtw6FzIGxlbnRvcyBxdWUgNTAwMCBwYXF1ZXRlcyBwb3Igc2VndW5kbwotICAgLXZ2diDihpIgTXVlc3RyYSBsYSBpbmZvcm1hY2nDs24gZW4gcGFudGFsbGEgYSBtZWRpZGEgcXVlIHNlIGRlc2N1YnJlCi0gICAtbiDihpIgSW5kaWNhIHF1ZSBubyBhcGxpcXVlIHJlc29sdWNpw7NuIEROUwotICAgLVBuIOKGkiBJbmRpY2EgcXVlIG5vIGFwbGlxdWUgZWwgcHJvdG9jb2xvIEFSUAotICAgMTAuMTAuMTEuMTMwIOKGkiBEaXJlY2Npw7NuIElQIHF1ZSBzZSBxdWllcmUgZXNjYW5lYXIKLSAgIC1vRyBhbGxQb3J0cyAg4oaSIEV4cG9ydGEgZWwgb3V0cHV0IGEgdW4gZmljaGVybyBncmVwZWFibGUgY29uIG5vbWJyZSDigJxhbGxQb3J0c+KAnQoKTm1hcCwgcGVybyBlc3RhIHZleiBzb2xhbWVudGUgbGFuemFyZW1vcyBzY3JpcHRzIGLDoXNpY29zIGRlIGVudW1lcmFjacOzbiB5IGFuYWxpemFyZW1vcyBsYSB2ZXJzacOzbiBkZSBsb3MgcHVlcnRvcyBhYmllcnRvcyBvYnRlbmlkb3MgYW50ZXJpb3JtZW50ZS4KCgnina8gbm1hcCAtcDgwIC1zQyAtc1YgMTAuMTAuMTEuMTMwIC1vTiB0YXJnZXRlZAoKLSAgICoqLXA4MCoqICAqLT4qIEluZGljYSBsb3MgcHVlcnRvcyBxdWUgc2UgcXVpZXJlbiBlc2NhbmVhcgotICAgKiotc0MqKiAgKi0+KiBMYW56YSBzY3JpcHRzIGLDoXNpY29zIGRlIGVudW1lcmFjacOzbgotICAgKiotc1YqKiAgKi0+KiBFbnVtZXJhIGxhIHZlcnNpw7NuIHkgc2VydmljaW8gcXVlIGVzdMOhIGNvcnJpZW5kbyBlbiBsb3MgcHVlcnRvcwotICAgKioxMC4xMC4xMS4xMzAqKiAgKi0+KiBEaXJlY2Npw7NuIElQIHF1ZSBzZSBxdWllcmUgZXNjYW5lYXIKLSAgICoqLW9OIHRhcmdldGVkKiogICotPiogRXhwb3J0YSBlbCBvdXRwdXQgYSB1biBmaWNoZXJvIGVuIGZvcm1hdG8gbm1hcCBjb24gbm9tYnJlIOKAnHRhcmdldGVk4oCd
+# Reconocimiento con Nmap (Ethical Hacking)
+
+## Recopilación de información:
+
+Comprobación de la conectividad con la máquina.
+	❯ ping -c 1 10.10.11.130
+En la salida del comando anterior se puede ver un parámetro llamado ttl, gracias a este parámetro podemos saber qué sistema operativo está corriendo en la máquina víctima.
+
+	❯ GNU/Linux = TTL 64
+	❯ Windows = TTL 128
+
+Nmap para descubrir que puertos están abiertos y que servicios están asociados a estos.
+
+	❯ nmap -p- --open -sS --min-rate 5000 -vvv -n -Pn 10.10.11.130 -oG allport
+
+-   -p-  ⇾ Escanea todos los puertos (65535)
+-   –open → Muestra solo los puertos con un estatus “open”
+-   -sS → Aplica un TCP SYN Scan
+-   –min-rate 5000 → Indica que quiero emitir paquetes no más lentos que 5000 paquetes por segundo
+-   -vvv → Muestra la información en pantalla a medida que se descubre
+-   -n → Indica que no aplique resolución DNS
+-   -Pn → Indica que no aplique el protocolo ARP
+-   10.10.11.130 → Dirección IP que se quiere escanear
+-   -oG allPorts  → Exporta el output a un fichero grepeable con nombre “allPorts”
+
+Nmap, pero esta vez solamente lanzaremos scripts básicos de enumeración y analizaremos la versión de los puertos abiertos obtenidos anteriormente.
+
+	❯ nmap -p80 -sC -sV 10.10.11.130 -oN targeted
+
+-   **-p80**  *->* Indica los puertos que se quieren escanear
+-   **-sC**  *->* Lanza scripts básicos de enumeración
+-   **-sV**  *->* Enumera la versión y servicio que está corriendo en los puertos
+-   **10.10.11.130**  *->* Dirección IP que se quiere escanear
+-   **-oN targeted**  *->* Exporta el output a un fichero en formato nmap con nombre “targeted”
