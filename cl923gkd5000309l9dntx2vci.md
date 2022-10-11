@@ -1,1 +1,21 @@
-IyMgRnVuY2nDs24gZW4gbGEgenNocmMgcGFyYSBjcmVhciBkaXJlY3RvcmlvcyBhdXRvbcOhdGljYW1lbnRlLgoKUGFyYSBwb2RlciBjcmVhciB1bmEgc2VyaWUgZGUgZGlyZWN0b3Jpb3MgcGFyYSB0ZW5lciB1bmEgbWVqb3Igb3JnYW5pemFjacOzbiBhbCBtb21lbnRvIGRlIHJlYWxpemFyIGFsZ3VuYSBhY3RpdmlkYWQuCkxvcyBkaXJlY3RvcmlvcyBzb24gbG9zIHNpZ3VpZW50ZXM6CgotIG5tYXAg4oaSIHNlIHViaWNhbiBsb3MgcmVzdWx0YWRvcyBkZWwgcmVjb25vY2ltaWVudG8geSBlc2NhbmVvIGRlIGxhIG3DoXF1aW5hIHbDrWN0aW1hLgotIGNvbnRlbnQg4oaSIHNlIHViaWNhbiBsb3MgYXJjaGl2b3MgeSBsYSBpbmZvcm1hY2nDs24gZW5jb250cmFkYSBlbiBsYSBtw6FxdWluYSB2w61jdGltYS4KLSBleHBsb2l0cyDihpIgc2UgdWJpY2FuIGxvcyBleHBsb2l0cyB1dGlsaXphZG9zLgotIHNjcmlwdHMgLT4gc2UgdWJpY2FuIGxvcyBzY3JpcHRzdXRpbGl6YWRvcy4gCgpVdGlsaXphbmRvIGxhcyBwZXJzb25hbGl6YWNpb25lcyBkZSBsYSB6c2ggc2UgcmVhbGl6YSBlbCBzaWd1aWVudGUgZnVuY2nDs246CiAgICAKCiAgICMgRnVuY3Rpb25zOgoKbGEgYW50ZXJpb3IgZnVuY2nDs24gc2UgY29sb2NhcsOhIGVuIGVsIGFyY2hpdm8gZGUgY29uZmlndXJhY2nDs24gc2l0dWFkbyBiYWpvIH4vLnpzaHJjOiAgICAKICAgCiAgICBmdW5jdGlvbiBta3QoKXsKCQkgIG1rZGlyIHtubWFwLGNvbnRlbnQsZXhwbG9pdHMsc2NyaXB0c30KICAgICB9Cgo=
+# Función en la zshrc para crear directorios automáticamente.
+
+Para poder crear una serie de directorios para tener una mejor organización al momento de realizar alguna actividad.
+Los directorios son los siguientes:
+
+- nmap → se ubican los resultados del reconocimiento y escaneo de la máquina víctima.
+- content → se ubican los archivos y la información encontrada en la máquina víctima.
+- exploits → se ubican los exploits utilizados.
+- scripts -> se ubican los scriptsutilizados. 
+
+Utilizando las personalizaciones de la zsh se realiza el siguiente función:
+    
+
+   # Functions:
+
+la anterior función se colocará en el archivo de configuración situado bajo ~/.zshrc:    
+   
+    function mkt(){
+		  mkdir {nmap,content,exploits,scripts}
+     }
+
